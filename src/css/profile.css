@@ -1,0 +1,33 @@
+.prompt{
+    display: inline;
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 200px;
+    padding:  10px;
+    height: 30px;
+    line-height: 25px;
+    font-size: 14px;
+    font-weight: 500;
+    font-family: inherit;
+    border-radius: 6px;
+    -webkit-appearance: none;
+    color: #f4f9f9;
+    border: 1px solid #f4f9f9;
+    background: var(--input-background);
+    transition: border .3s ease;
+   
+}
+.search >button{
+    
+    background-color: #1687a7; /* Green */
+    margin-left: 2px;
+    border: none;
+    color: white;
+    padding: 9px 32px 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid white;
+    border-radius: 5%;
+}

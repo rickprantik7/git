@@ -1,0 +1,25 @@
+.repo{
+    
+    
+    background-color:#e8efeb;
+    margin-top: 20px;
+    margin-left: 200px;
+    width: 750px;
+    border: 3px solid #30475e;
+}
+.repo_image >img {
+    margin: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+}
+.repo > p{
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: 100;
+}
+.repo_repo{
+    margin: 20px;
+    display: grid;
+
+}
